@@ -1,5 +1,5 @@
 venv/
 artifacts/
 __pycache__/
-
+notebooks/
 *.log
