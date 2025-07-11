@@ -3,5 +3,5 @@ artifacts/
 __pycache__/
 notebooks/
 *.log
-*.egg-info/
+Hotel_Reservation_1.egg-info/
 mlruns/
