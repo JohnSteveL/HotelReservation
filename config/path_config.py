@@ -18,3 +18,8 @@ Data Processing
 PROCESSED_DIR = Path("artifacts/processed")
 PROCESSED_TRAIN_DATA_PATH = PROCESSED_DIR/"processed_train.csv"
 PROCESSED_TEST_DATA_PATH = PROCESSED_DIR/"processed_test.csv"
+
+'''
+MODEL TRAINING
+'''
+MODEL_OUTPUT_PATH = "artifacts/models/lgbm_model.pkl"
