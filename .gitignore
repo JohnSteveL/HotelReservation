@@ -5,4 +5,3 @@ notebooks/
 *.log
 Hotel_Reservation_1.egg-info/
 mlruns/
-jenkins-github.txt
