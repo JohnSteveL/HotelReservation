@@ -1,5 +1,6 @@
 venv/
-
+models\
+processed\
 __pycache__/
 notebooks/
 *.log
